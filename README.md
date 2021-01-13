@@ -14,7 +14,8 @@ A aplicação consiste em um sistema de Ordens de Serviços no modelo arquitetur
 ## Back end
 - Java
 - Spring Boot
-- JPA / Hibernate
+- Migrations com Flyway
+- Spring Data JPA
 - Maven
 - Banco de dados: Mysql
 
